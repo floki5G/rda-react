@@ -5,6 +5,6 @@ import "./styles.css";
 
 export default function App() {
   return (
-    <Layout><UploadList/></Layout>
+    <Layout><UploadList /></Layout>
   );
 }

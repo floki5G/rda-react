@@ -36,6 +36,7 @@ const styles = {
         fontSize: "0.8rem",
         width: "fit-content",
         margin: "auto"
+        
     },
     addProperty: {
         border: "2px dashed #6C6C6C",
