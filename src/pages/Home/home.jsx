@@ -16,7 +16,7 @@ const styles = {
         py: 1,
         px: 2,
         border: "1px solid rgba(0, 0, 0, 0.5)",
-        borderRadius: "3px"
+        borderRadius: "3px" 
     },
     alertBox: {
         borderRadius: "3px",
